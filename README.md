@@ -1,3 +1,7 @@
+### Messsage from forker
+
+This is on my list of things to do and is not under active development. Thanks to Dean Attali for the wonderful base!
+
 [![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
 # Beautiful Jekyll
